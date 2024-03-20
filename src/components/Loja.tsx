@@ -12,7 +12,7 @@ const Loja = (tipo: any) => {
 
   const getLoja = async () => {
     try {
-      const response = await apiFetch.get("/combined?language=pt-BR");
+      const response = await apiFetch.get("/combined?language=es-419");
       const data = response.data;
       const daily_entries = tipo_filter(data, loja_tipo);
 
