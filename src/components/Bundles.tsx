@@ -43,7 +43,7 @@ const Bundles = () => {
                 <div className="bundle-off">
                   <div className="text-center bundle-off-text">
                     <span>
-                      Economize {loja.regularPrice - loja.finalPrice} V-Bucks
+                      Ahorra {loja.regularPrice - loja.finalPrice} V-Bucks
                     </span>
                     <div className="bundle-quantidade">
                       <span>{loja.items.length}</span>
