@@ -12,7 +12,7 @@ const Home = () => {
 
             
 
-            <div className="title text-center mt-3">Loja do fortnite</div>
+            <div className="title text-center mt-3">Tienda de Fortnite</div>
 
             <div id='bundles'></div>
             <Bundles />
