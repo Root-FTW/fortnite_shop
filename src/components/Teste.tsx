@@ -9,7 +9,7 @@ const Teste = () => {
     //const getPasse = async () => {
         //try {
            // const response = await api.get("https://fortniteapi.io/v2/battlepass?lang=en&season=current", {
-            //    "headers": {"Authorization" : "942e0ce7-972347eb-864a5c61-a9aec2a7"}
+            //    "headers": {"Authorization" : "3bb03286-20da-4033-9bdc-b70bbdb3399e"}
             //})
            // const data = response.data;
             //setPasse(data)
